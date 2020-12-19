@@ -1,0 +1,67 @@
+#banner{
+	text-align:center;
+	background-image: url(../Pics/banner.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	width:1525px;
+	height:150px;
+}
+
+html{
+	background: url(../Pics/background.jpg) no-repeat center center fixed; 
+	background-size: cover;
+	background-size: cover;
+	background-size: cover;
+	background-size: cover;
+}
+
+body{
+	background-position:center;
+	text-align:center;	
+}
+
+.align{
+	text-align:left;
+
+}
+.inputbox{
+	height:30px; 
+	font-size:15pt;
+	margin-left:20px;
+}
+#create{
+	position: absolute;
+	top:550;
+	right:750;
+	height:30px; 
+	font-size:14pt;
+}
+#createbtn{
+	position: absolute;
+	top:530;
+	right:640;
+	height:30px; 
+	font-size:14pt;
+}
+#signbtn{
+	position: absolute;
+	top:530;
+	right:850;
+	height:30px; 
+	font-size:14pt;
+}
+h1{
+	font-size:35pt;
+}
+
+.login{
+	font-size:25pt;
+	padding:15px;
+}
+
+hr{
+	background-color:black;
+	width: 750px;
+	height: 5px;
+}
+

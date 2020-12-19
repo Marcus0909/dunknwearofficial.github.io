@@ -1,0 +1,427 @@
+html{
+	background: url(../Pics/background.jpg) no-repeat center center fixed; 
+	background-size: cover;
+}
+p{
+	padding: 10px 25px;
+}
+body{
+	font-family:Arial Unicode MS;
+}
+#logo{
+	background-image:url(../Pics/logo.jpg);
+	display:absolute;
+	background-repeat:no-repeat;
+	height: 70px;
+	width: 255px;
+}
+.btn{
+	display:inline-block;
+	background:#ff532b;
+	color:#fff;
+	padding:1px 30px;
+	margin :30px 5px;
+	border-radius: 25px;
+	font-size: 15pt;
+}
+
+.MenShirt{
+	font-size:10pt;
+}
+#MenShirt1{
+	display:absolute;
+	margin-top:300;
+	margin-left:295; 
+}
+#MenShirt2{
+	display:absolute;
+	margin-top:-55;
+	margin-left:690; 
+}
+#MenShirt3{
+	display:absolute;
+	margin-top:-60;
+	margin-left:1095; 
+}
+#MenShirt4{
+	display:absolute;
+	margin-top:305;
+	margin-left:295; 
+}
+#MenShirt5{
+	display:absolute;
+	margin-top:-57;
+	margin-left:690; 
+}
+#MenShirt6{
+	display:absolute;
+	margin-top:-57;
+	margin-left:1095; 
+}
+
+.item{
+	background-repeat:no-repeat;
+	background-size:225px 225px;
+	display:inline-block;
+}
+#item1{
+	background-image:url(../Pics/Men/i1Lebron.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 300;
+}
+#item1 a{
+	text-decoration: none;
+	color:#555;
+}
+#item2{
+	background-image:url(../Pics/Men/i2Giannis.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 700;
+}
+#item2 a{
+	text-decoration: none;
+	color:#555;
+}
+#item3{
+	background-image:url(../Pics/Men/i3Nike.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 1100;
+}
+#item3 a{
+	text-decoration: none;
+	color:#555;
+}
+#item4{
+	background-image:url(../Pics/Men/i4Kobe.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 300;
+}
+#item4 a{
+	text-decoration: none;
+	color:#555;
+}
+#item5{
+	background-image:url(../Pics/Men/i5Nike.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 700;
+}
+#item5 a{
+	text-decoration: none;
+	color:#555;
+}
+#item6{
+	background-image:url(../Pics/Men/i6Nike.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 1100;
+}
+#item6 a{
+	text-decoration: none;
+	color:#555;
+}
+
+.WomenShirt{
+	font-size:10pt;
+}
+#WomenShirt1{
+	display:absolute;
+	margin-top:300;
+	margin-left:295; 
+}
+#WomenShirt2{
+	display:absolute;
+	margin-top:-55;
+	margin-left:690; 
+}
+#WomenShirt3{
+	display:absolute;
+	margin-top:-60;
+	margin-left:1095; 
+}
+#WomenShirt4{
+	display:absolute;
+	margin-top:305;
+	margin-left:295; 
+}
+#WomenShirt5{
+	display:absolute;
+	margin-top:-57;
+	margin-left:690; 
+}
+#WomenShirt6{
+	display:absolute;
+	margin-top:-57;
+	margin-left:1095; 
+}
+
+
+#Witem1{
+	background-image:url(../Pics/Women/1w.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 300;
+}
+#Witem1 a{
+	text-decoration: none;
+	color:#555;
+}
+#Witem2{
+	background-image:url(../Pics/Women/2w.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 700;
+}
+#Witem2 a{
+	text-decoration: none;
+	color:#555;
+}
+#Witem3{
+	background-image:url(../Pics/Women/3w.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 1100;
+}
+#Witem3 a{
+	text-decoration: none;
+	color:#555;
+}
+#Witem4{
+	background-image:url(../Pics/Women/4w.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 300;
+}
+#Witem4 a{
+	text-decoration: none;
+	color:#555;
+}
+#Witem5{
+	background-image:url(../Pics/Women/5w.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 700;
+}
+#Witem5 a{
+	text-decoration: none;
+	color:#555;
+}
+#Witem6{
+	background-image:url(../Pics/Women/6w.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 1100;
+}
+#Witem6 a{
+	text-decoration: none;
+	color:#555;
+}
+
+#Kitem1{
+	background-image:url(../Pics/Kids/1k.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 300;
+}
+#Kitem1 a{
+	text-decoration: none;
+	color:#555;
+}
+#Kitem2{
+	background-image:url(../Pics/Kids/2k.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 700;
+}
+#Kitem2 a{
+	text-decoration: none;
+	color:#555;
+}
+#Kitem3{
+	background-image:url(../Pics/Kids/3k.jpeg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 150;
+	left: 1100;
+}
+#Kitem3 a{
+	text-decoration: none;
+	color:#555;
+}
+#Kitem4{
+	background-image:url(../Pics/Kids/4k.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 300;
+}
+#Kitem4 a{
+	text-decoration: none;
+	color:#555;
+}
+#Kitem5{
+	background-image:url(../Pics/Kids/5k.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 700;
+}
+#Kitem5 a{
+	text-decoration: none;
+	color:#555;
+}
+#Kitem6{
+	background-image:url(../Pics/Kids/6k.jpg);
+	position:absolute;
+	width:300px;
+	height:285px;
+	top: 500;
+	left: 1100;
+}
+#Kitem6 a{
+	text-decoration: none;
+	color:#555;
+}
+
+#women{
+	position:absolute;
+	top: 100;
+	left: 70;
+	font-size:35pt;
+	color:blue;
+}
+#men{
+	position:absolute;
+	top: 100;
+	left: 70;
+	font-size:35pt;
+	color:blue;
+}
+#kids{
+	position:absolute;
+	top: 100;
+	left: 70;
+	font-size:35pt;
+	color:blue;
+}
+
+#search {
+	position:absolute;
+	top:30;
+	right:400;
+	height:40px; 
+	font-size:20pt;
+}
+#btsearch {
+	position: absolute;
+	top:30;
+	right:350;
+	height:40px; 
+	font-size:14pt;
+}
+#contact{
+	position: absolute;
+	top: 800;
+	left: 10;
+	font-size: 10pt;
+}
+
+#about{
+	position:absolute;
+	top:300;
+	left:30;
+}
+
+#list {
+	position: absolute;
+	top:150;
+	left: 10;
+	font-size: 17pt;
+}
+#list a{
+	float: left;
+	display:inline;
+	color:#555;
+	padding: 1px 25px;
+	text-decoration: none;
+}
+#list a:hover{
+	color:red;
+}
+
+#navigation{
+	position:absolute;
+	top:10;
+	left: 320;
+	font-size: 17pt;
+}
+#navigation a{
+	display:inline-block;
+	color:#555;
+	margin-right:40px;
+	margin-top:20px;
+	text-decoration: none;
+}
+#navigation a:hover{
+	color:red;
+}
+
+#addCart{
+	position:absolute;
+	bottom:-70;
+	left: 500;
+	height:30px;
+	font-size:14pt;
+}
+#ship{
+	position:absolute;
+	bottom:-70;
+	left: 900;
+	height:30px;
+	font-size:14pt;
+}
+
+#logout{
+	position:absolute;
+	top:30;
+	right: 50;
+	height:30px;
+	font-size:14pt;
+}
+
+
